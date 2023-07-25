@@ -1,3 +1,0 @@
-/media/khangkt/Work/Workspace/FPT_Telecom/fss_project/realtek/example_test/demuxmp4_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/media/khangkt/Work/Workspace/FPT_Telecom/fss_project/realtek/example_test/demuxmp4_c/cmake-build-debug/CMakeFiles/mp4demuxer.dir
-/media/khangkt/Work/Workspace/FPT_Telecom/fss_project/realtek/example_test/demuxmp4_c/cmake-build-debug/CMakeFiles/edit_cache.dir
