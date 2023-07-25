@@ -12,6 +12,6 @@ set(CMAKE_CXX_STANDARD 14)
 FILE(GLOB_RECURSE sources src/*.c )
 include_directories(include)
 
-add_executable(mp4_demuxer_c ${sources})
+add_executable(mp4demuxer ${sources})
 
 
