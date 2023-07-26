@@ -190,6 +190,4 @@ The following is the expanded table. It can be seen that `chunk` can be indexed 
 |       |          5           |           1           |           1           |
 |       | Number of chunks = 5 | Number of samples = 9 |                       |
 
-#### 提取媒体数据
-
 When extracting `avc`, a `sample` may contain multiple `nalu`, the format is ``` [nalu length(4bytes)][nalu data(nalu length bytes)]+[nalu length][nalu data]+...```. The same rule applies to the extraction of `hevc`.
